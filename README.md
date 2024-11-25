@@ -98,8 +98,6 @@ public class HealthCareConsultantApp {
 
         // Create the ConsultationService
         ConsultationService consultationService = new ConsultationService();
-        
-        // Menu-based interaction
         while (true) {
             System.out.println("\nHealthcare Consultant System");
             System.out.println("1. Schedule a Consultation");
